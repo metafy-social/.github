@@ -1,7 +1,3 @@
-![](/profile/poster.png)
-
-</br>
-
 <div align="center">
 
 ~~  Bringing the power of blockchain in the palm of your hands  ~~
